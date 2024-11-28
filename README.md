@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1>Hello there, I'm Jenebi</h1>
-  <p>[briefly describe yourself and your interests]</p>
+  <p>I'm a future full-stack developer studying at the Bit avademy in Amsterdam.</p>
 </div>
 
 <div id="badges">
